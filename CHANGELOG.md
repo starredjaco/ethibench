@@ -1,3 +1,13 @@
+## [1.2.0](https://github.com/ethiack/ethibench/compare/1.1.2...1.2.0) (2026-08-20)
+
+### 🚀 Features
+
+* added blog 3 link ([e1b57f4](https://github.com/ethiack/ethibench/commit/e1b57f4facdaac6f84b1bee368c4d2ffb4976292))
+
+### 🛠 Fixes
+
+* semantic release ([b2eeded](https://github.com/ethiack/ethibench/commit/b2eeded35d148dcf59a01243f4fe71103bbbfc92))
+
 ## [1.1.2](https://github.com/ethiack/ethibench/compare/1.1.1...1.1.2) (2026-07-22)
 
 ## [1.1.1](https://github.com/ethiack/ethibench/compare/1.1.0...1.1.1) (2026-07-22)
